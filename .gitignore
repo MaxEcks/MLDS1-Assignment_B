@@ -8,7 +8,9 @@ __pycache__/
 
 # data
 data/raw/*
-data/processed/*
+
+# archive files
+notebooks/archive/*
 
 
 # Distribution / packaging
